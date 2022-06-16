@@ -3,7 +3,8 @@
 @import url("https://fonts.googleapis.com/css2?family=ABeeZee&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Noto+Serif+JP&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap");
-@import url(https://db.onlinewebfonts.com/c/1dc8ecd8056a5ea7aa7de1db42b5b639?family=Gilroy);
+@import url('https://fonts.cdnfonts.com/css/gilroy-bold');
+
 * {
   box-sizing: border-box;
   scroll-behavior: smooth;
@@ -25,7 +26,7 @@ h6 {
 
 p,
 span {
-  font-family: "Gilroy";
+  font-family: "Gilroy-Medium";
 }
 
 .logo {
